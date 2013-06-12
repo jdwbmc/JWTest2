@@ -1,4 +1,4 @@
-﻿Build started 6/12/2013 1:35:44 PM.
+﻿Build started 6/12/2013 2:44:24 PM.
      1>Project "C:\Users\DJDW80\Documents\Visual Studio 2010\Projects\JWTest2\JWTest2\JWTest2.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Release\JWTest2.unsuccessfulbuild" because "AlwaysCreate" was specified.
@@ -19,4 +19,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:03.56
+Time Elapsed 00:00:14.40
